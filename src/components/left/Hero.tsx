@@ -51,7 +51,6 @@ export default function Hero({ section }: { section: string }) {
       <p className="font-light leading-7">
         I&apos;m a software engineer based in Brooklyn, NY.
         I have an eye for style, fashion, design, photo / videography. 
-        In addition to 
       </p>
       <Links section={section} />
     </div>
