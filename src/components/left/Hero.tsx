@@ -50,7 +50,7 @@ export default function Hero({ section }: { section: string }) {
       </div>
       <p className="font-light leading-7">
         I&apos;m a software engineer based in Brooklyn, NY.
-        I have an eye for style, fashion, design, photo / videography. 
+        I have an eye for UI / UX design, beautiful, pixel-perfect interfaces & cutting edge technologies. 
       </p>
       <Links section={section} />
     </div>

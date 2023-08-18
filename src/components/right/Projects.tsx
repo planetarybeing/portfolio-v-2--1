@@ -65,7 +65,14 @@ export default function Projects({
 
       <Card>
         <h3 className="font-bold text-2xl mb-6">Second Project</h3>
-        <p className="font-light leading-7 mb-6">Spotify Clone</p>
+        <p className="font-light leading-7 mb-6">Spotify Clone </p>
+        <ul>
+          <li className="font-light leading-7 mb-4">• Payment Integration: Seamlessly integrated Stripe API for secure payment processing, enabling smooth subscription handling.</li>
+          <li className="font-light leading-7 mb-4">• Backend Management: Utilized Supabase and PostgreSQL for efficient database management, ensuring seamless data handling.</li>
+          <li className="font-light leading-7 mb-4">• Sleek UI: Crafted a modern and stylish user interface using Tailwind CSS, complete with animations and transitions.</li>
+          <li className="font-light leading-7 mb-4">• Authentication: Implemented secure user authentication through credentials and GitHub via Supabase.</li>
+          <li className="font-light leading-7 mb-6">• API Routes: Developed essential API routes (POST, GET, DELETE) for seamless client-server communication.</li>
+        </ul>
         {renderTags(["React", "NextJS", "Tailwind", "Supabase", "PostgreSQL", "Stripe" ])}
         <div className="mt-6 flex flex-col items-center">
           <button

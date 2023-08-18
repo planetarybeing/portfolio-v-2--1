@@ -21,9 +21,7 @@ export default function Tech() {
         <li className="font-light leading-7">• Express</li>
         <li className="font-light leading-7">• Postgres</li>
         <li className="font-light leading-7">• Supabase</li>
-        <li className="font-light leading-7">
-          • A.I. Tools
-        </li>
+        <li className="font-light leading-7">• A.I. Tools</li>
         <li className="font-light leading-7">• Netlify</li>
         <li className="font-light leading-7">• Vercel</li>
       </ul>
