@@ -3,11 +3,9 @@ import Card from "../../utilities/Card";
 export default function Tech() {
   return (
     <Card>
-      <h3 className="font-bold text-2xl mb-6">Tech I Love</h3>
+      <h3 className="font-bold text-2xl mb-6">Tech I&apos;m learning more about</h3>
       <p className="font-light leading-7 mb-4">
-        I normally add a list of the tech that I use to my portfolios. Instead
-        to doing one of those weird graphs where you say you&apos;re 73% in
-        JavaScript or whatever, try something like this:
+       
       </p>
       <p className="font-light leading-7 mb-2">
         My choice tech stack for personal projects is GENERALLY (but not

@@ -44,14 +44,19 @@ export default function Projects({
         <div className="flex items-center justify-between mb-6">
           <h3 className="font-bold text-2xl">First Project</h3>
         </div>
-        <p className="font-light leading-7 mb-6">Portfolio Website Version 1 - This project is a dynamic and visually captivating web application built with Next.js, a comprehensive full-stack framework based on React. Key animations are achieved using two powerful libraries: anime.js, a JavaScript animation library that brings the grid animation in DotGrid.tsx to life, and framer-motion, a React-centric animation library used extensively for enhancing user interactions across various components</p>
+        <p className="font-light leading-7 mb-6">Portfolio Website Version 1</p>
+       <ul>
+       <li className="font-light leading-7 mb-4">• This project is a dynamic and visually captivating web application built with Next.js</li>
+       <li className="font-light leading-7 mb-4">• Key animations are achieved using two powerful libraries: anime.js, a JavaScript animation library that brings the grid animation in DotGrid.tsx to life, and framer-motion, a React-centric animation library used extensively for enhancing user interactions across various components</li>
+       <li className="font-light leading-7 mb-4">• Web app is highly responsive deployed via Vercel</li>
+       </ul>
         {renderTags([
-          "React (Next JS)",
+          "React (Next.JS)",
           "Typescript",
-          "Node",
-          "GCP",
-          "Supabase",
-          "Serverless",
+          "Node.JS",
+          "Anime.JS",
+          "Vercel",
+          "TS Particles",
         ])}
         <div className="mt-6 flex flex-col items-center">
           <button
