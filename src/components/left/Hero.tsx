@@ -41,7 +41,7 @@ export default function Hero({ section }: { section: string }) {
           <img
             alt=""
             onClick={() => {
-              window.open("mailto:youremail@gmail.com");
+              window.open("mailto:awatkis00@icloud.com");
             }}
             src="/google.svg"
             className="transition-opacity hover:opacity-70 cursor-pointer"
