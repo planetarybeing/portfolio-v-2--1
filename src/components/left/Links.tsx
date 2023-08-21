@@ -7,7 +7,7 @@ export default function Links({ section }: { section: string }) {
       <Link text="HOBBIES" label="02" inView={section === "hobbies"} />
       {/* <Link text="EDUCATION" label="03" inView={section === "education"} /> */}
       <Link text="MISC" label="03" inView={section === "misc"} />
-      <Link text="RESUME" label="04" inView={section === "resume"} />
+      {/*<Link text="RESUME" label="04" inView={section === "resume"} />*/}
 
     </div>
   );
