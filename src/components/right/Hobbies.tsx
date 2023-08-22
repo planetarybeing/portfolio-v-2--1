@@ -23,7 +23,9 @@ export default function Hobbies({
           <p className="font-light leading-7 mb-4">
             One of my favorite hobbies is motorcycling. Learning how to ride a
             motorcycle for the first time & having to pass the road test in just
-            two days was on of the most difficult things I&apos;ve ever done. I
+            two days was on of the most difficult things I&apos;ve ever done.</p> 
+            
+            <p>I
             was amazed that I was able to push through & not give up. My reward
             the ability to see the world like I&apos;ve never seen it before &
             all of the friends I&apos;ve made. I look at programming & design

@@ -13,8 +13,8 @@ export default function SoftSkills() {
                 <li className="font-light leading-7 pt-4">• Collaboration and Teamwork</li>
                 <li className="font-light leading-7 pt-4">• Problem-Solving Abilities</li>
                 <li className="font-light leading-7 pb-4">• Adaptability and Continuous Learning</li>
-                <li className="font-light leading-7 pb-4">• Attention to Detail</li>
-                <li className="font-light leading-7">• Time Management and organization</li>
+                <li className="font-light leading-7 py-4">• Attention to Detail</li>
+                <li className="font-light leading-7 pt-4">• Time Management and organization</li>
                 <li className="font-light leading-7">• Collaboration and Teamwork</li>   
                 <li className="font-light leading-7">• Life-long learner</li>
             </ul>
