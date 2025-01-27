@@ -41,7 +41,7 @@ export default function Hero({ section }: { section: string }) {
           <img
             alt=""
             onClick={() => {
-              window.open("mailto:awatkis00@icloud.com");
+              window.open("mailto:youremail@gmail.com");
             }}
             src="/google.svg"
             className="transition-opacity hover:opacity-70 cursor-pointer"
@@ -49,8 +49,9 @@ export default function Hero({ section }: { section: string }) {
         </div>
       </div>
       <p className="font-light leading-7">
-        I&apos;m a software engineer based in Brooklyn, NY.
-        I have an eye for UI / UX design, beautiful, pixel-perfect interfaces & cutting edge technologies. 
+        I&apos;m a software developer based in Brooklyn, NY.
+        I have a strong passion for tech, art & design. I love to create human focused experiences 
+        & products.
       </p>
       <Links section={section} />
     </div>

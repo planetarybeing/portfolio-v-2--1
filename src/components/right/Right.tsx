@@ -4,7 +4,6 @@ import Projects from "./Projects";
 import Misc from "./misc/Misc";
 import Work from "./Work";
 import Hobbies from "./Hobbies";
-{/*import Resume from "./Resume";*/}
 
 export default function Right({
   setSection,
@@ -18,7 +17,6 @@ export default function Right({
       <Education setSection={setSection} />*/}
       <Hobbies setSection={setSection} />
       <Misc setSection={setSection} />
-      {/*<Resume setSection={setSection} />*/}
     </div>
   );
 }
